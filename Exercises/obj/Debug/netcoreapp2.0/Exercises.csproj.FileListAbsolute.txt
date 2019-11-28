@@ -1,0 +1,9 @@
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\bin\Debug\netcoreapp2.0\Exercises.deps.json
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\bin\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\bin\Debug\netcoreapp2.0\Exercises.pdb
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\obj\Debug\netcoreapp2.0\Exercises.csprojAssemblyReference.cache
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\obj\Debug\netcoreapp2.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfo.cs
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\obj\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\101852956.SWIN\Documents\linked lists\WeeklyRecursionAndLinkedLists-master\Exercises\obj\Debug\netcoreapp2.0\Exercises.pdb
